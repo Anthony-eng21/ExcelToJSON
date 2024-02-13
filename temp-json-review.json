@@ -1,0 +1,100 @@
+{
+    "Customer Review": [
+      {
+        "Time": "2021-05-27T16:04:26.000Z",
+        "Name": "Nick Barron",
+        "Rating": 5,
+        "Quote": "Easy to setup, great flexibility and super reliable."
+      },
+      {
+        "Time": "2021-05-27T16:20:49.000Z",
+        "Name": "Wesley Jacobs",
+        "Rating": 5,
+        "Quote": "They work!  Also have emailed for support a few times.  Russell S was a great help!  Thanks"
+      },
+      {
+        "Time": "2021-11-24T02:26:49.000Z",
+        "Name": "Robert J. Honders Sr.",
+        "Rating": 5,
+        "Quote": "Modular, easy to program - customise"
+      },
+      {
+        "Time": "2021-11-23T21:21:26.000Z",
+        "Name": "John Canfield",
+        "Rating": 5,
+        "Quote": "Products that are created to solve a need and not products looking for a need."
+      },
+      {
+        "Time": "2021-11-01T03:46:40.000Z",
+        "Name": "John Escobar",
+        "Rating": 5,
+        "Quote": "They are reliable and that is a super plus, they work well and that is a plus, they talk modbus and that makes my job easier. So far all control by web products I have used are very flexible, I have units talking modbus to serious control systems and HMI's, not to mention this units are 5 plus years old and work non stop, QUALITY!"
+      },
+      {
+        "Time": "2021-10-27T00:16:20.000Z",
+        "Name": "Jerome List",
+        "Rating": 5,
+        "Quote": "They are easy to set up, reliable and easily accessible."
+      },
+      {
+        "Time": "2021-10-26T15:19:19.000Z",
+        "Name": "Alan Tang",
+        "Rating": 5,
+        "Quote": "The quality is stable and reliable, and with low failure rate and also easy to use."
+      },
+      {
+        "Time": "2021-06-22T19:54:26.000Z",
+        "Name": "Leo Guerrero",
+        "Rating": 5,
+        "Quote": "So far they have been great to work with, fairly simple even for beginners like me."
+      },
+      {
+        "Time": "2021-06-04T02:13:37.999Z",
+        "Name": "Myles Russell",
+        "Rating": 5,
+        "Quote": "Brilliantly easy to set up and use.  Keeps up with current technology unlike many others."
+      },
+      {
+        "Time": "2021-06-01T01:23:52.000Z",
+        "Name": "Kevin Craig",
+        "Rating": 5,
+        "Quote": "I am not very good with computers, but have found setting up the X-410 very easy."
+      },
+      {
+        "Time": "2021-05-31T14:06:49.999Z",
+        "Name": "Tom Jennen",
+        "Rating": 5,
+        "Quote": "Have used your products since 2015 and am very pleased with the performance and reliability. The X-600M line has been an integral part of our grain handling facility. We would not want to be without the automation, control and monitoring it provides. The automation saves us an employee to do other tasks as a direct result of the technology. The flexibility is only limited by your imagination!"
+      },
+      {
+        "Time": "2021-05-29T07:14:29.000Z",
+        "Name": "Phillip Romley",
+        "Rating": 5,
+        "Quote": "I like the ease of programming and web interface compared to the Allen Bradley plc's I use at work.  When I have an issue I can't figure out, the technical staff has always steered me in the correct direction."
+      },
+      {
+        "Time": "2021-05-27T16:27:18.000Z",
+        "Name": "Joe Siepka",
+        "Rating": 5,
+        "Quote": "I plug them in and they work. Programming is straight forward, and documentation is good."
+      },
+      {
+        "Time": "2021-05-27T16:36:26.999Z",
+        "Name": "Gene Bohn",
+        "Rating": 5,
+        "Quote": "Easy to configure, solid documentation, solid customer support before and after purchase"
+      },
+      {
+        "Time": "2021-05-27T16:51:51.000Z",
+        "Name": "J. Tar",
+        "Rating": 5,
+        "Quote": "We have numerous X310 units installed that monitor and control heat systems at remote properties. They have been in place for about 5 years and operate flawlessly. They are a critical part of our ability to cost-effectively and proactively do things that are one step ahead of disasters."
+      },
+      {
+        "Time": "2021-05-27T17:53:49.000Z",
+        "Name": "Tyler Sinclair",
+        "Rating": 4,
+        "Quote": "Simple and easy to use interface. Products work without having to power cycle or troubleshoot."
+      }
+    ]
+  }

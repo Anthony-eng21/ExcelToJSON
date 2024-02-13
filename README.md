@@ -24,6 +24,7 @@ To run this script, you will need:
 2. **Run the Server**: Start the Express server script. Ensure it's listening for incoming POST requests at the `/read` endpoint.
 3. **Send a Request**: Use a REST API client of your choice to send a POST request containing an Excel file to the server.
 4. **Receive Response**: The server will process the Excel file and return the content in JSON format as the response.
+5. **Thunder Client (request setup)**: Start a new request. Go to the body section for your request. Use the Form option for your body. Press files then a field will show up. Then you want to give the field name a value of 'file' (as expected in our script) then send that biddy
 
 ## Additional Information
 
